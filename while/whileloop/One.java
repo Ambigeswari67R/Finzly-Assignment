@@ -1,3 +1,4 @@
+//print 1 to 25
 package whileloop;
 
 public class One {
