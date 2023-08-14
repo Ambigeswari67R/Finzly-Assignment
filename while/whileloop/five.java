@@ -1,3 +1,4 @@
+//5) Write a Program To print sum of 1 to 50 Odd nos.
 package whileloop;
 
 public class five {
