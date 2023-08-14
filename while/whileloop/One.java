@@ -1,7 +1,7 @@
 //print 1 to 25
 package whileloop;
 
-public class One {
+public class PrintOnetoTwentyfive {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
