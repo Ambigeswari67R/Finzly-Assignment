@@ -1,0 +1,14 @@
+<p>prime-number works!</p>
+
+    <h2>Prime Number Checker</h2>
+    <div>
+      <label for="numberInput">Enter a number:</label>
+      <input type="number" id="numberInput" [(ngModel)]="number">
+      <button (click)="checkPrime()">Check</button>
+    </div>
+    <div *ngIf="isPrime !== undefined" class="result">
+      <p>{{ number }} is {{ isPrime ? 'a prime number' : 'not a prime number' }}</p>
+    </div>
+ 
+  
+    
